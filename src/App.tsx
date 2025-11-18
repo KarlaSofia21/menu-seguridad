@@ -4,7 +4,7 @@ import { Shield, Lock, KeyRound, Clock, ArrowRight } from "lucide-react";
 export default function App() {
   const urls = {
     metodo1: "https://mi-app-aes128.vercel.app/",
-    metodo2: "https://vercel.com/erick-eduardos-projects-7505bdcd/seguridad/ArZZKc8Y7Q7mExog1W1Ga79LzCLY",
+    metodo2: "https://pin-seguridad-git-main-erick-eduardos-projects-7505bdcd.vercel.app",
     metodo3: "https://auth-pin-app-qxx9.vercel.app/",
     metodo4: "https://enlace-temporal2.vercel.app/",
   };
